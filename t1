@@ -10,5 +10,6 @@ sub();
 mul();
 {
 printf("Multiplictaion of a and b is d");
+}
 div();
 }
