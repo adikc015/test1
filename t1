@@ -8,5 +8,7 @@ printf("Addition of a and b is %d,sum);
 }
 sub();
 mul();
+{
+printf("Multiplictaion of a and b is d");
 div();
 }
