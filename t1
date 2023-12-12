@@ -3,6 +3,9 @@
 int main()
 {
 add();
+{
+printf("Addition of a and b is %d,sum);
+}
 sub();
 mul();
 div();
